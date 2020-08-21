@@ -1,0 +1,4 @@
+# KiCad libraries
+
+This is my collection of validated KiCad symbols/footprints from my electronics
+hobby work.
